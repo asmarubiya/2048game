@@ -33,14 +33,17 @@ The 2048 Game is a simple yet addictive puzzle game. The objective is to combine
    ```bash
    git clone https://github.com/asmarubiya/2048-game.git
    cd 2048-game
-2.Compile the Java code:
 
+
+1. **Compile the java code:**
 Make sure you have JDK installed. You can compile the code using the following command:
-javac Main2048.java
+   ```bash
+   javac main2048.java
+   
+1. **Run the game:**
 
-3.Run the game:
-
-java Main2048
+   ```bash
+   java Main2048
 
 Usage 🎯
 Use the arrow keys to move the tiles in the corresponding direction.
@@ -62,6 +65,8 @@ Contact 📧
 Name: Asma Rubiya
 Email: asmarubiya456@gmail.com
 GitHub: asmarubiya
+
+
 
 
 
