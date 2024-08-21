@@ -2,7 +2,7 @@
 
 Welcome to the 2048 Game! This is a Java implementation of the popular 2048 puzzle game, enhanced with a 5x5 grid for added challenge.
 
-![Game Screenshot](Screenshot (117).png)
+![Game Screenshot](Screenshot(117).png)
 
 ## Table of Contents 📜
 
